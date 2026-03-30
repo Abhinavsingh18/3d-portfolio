@@ -15,58 +15,41 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>AI Intern</h4>
+                <h5>Plus 91 Labs</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025–26</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              JULY 2025 – JAN 2026. Working on AI Agents and intelligent automation 
+              technologies to deliver scalable, high-impact client products.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>ML Intern</h4>
+                <h5>ABV-IIITM Gwalior</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              APR 2025 – OCT 2025. Developed behavior-conditioned synthetic Indian 
+              traffic scenarios using AI/ML. Tools: CVAT, Python, OpenCV, DeepSort.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Hackathon Achievements</h4>
+                <h5>National Level</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2023–24</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              • 2nd Position in National Level Hackathon at IIITM Gwalior<br />
+              • 4th Position in National Level Hackathon at NIT Bhopal<br />
+              • Finalist in Hackathon at IIT Bombay
             </p>
           </div>
         </div>
